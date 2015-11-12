@@ -1,0 +1,70 @@
+about_me.css
+
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+	li{color: red;
+		font-size: 18px;
+	}
+    p{color: blue;
+    	font-size: 17px;
+    }
+    h1{color: orange;
+    	font-size: 25px;
+    }
+    h2{color: green;
+    	font-size: 19px;
+    }
+
+    strong{
+    	color: #000000;
+    }
+
+    em{
+    	color: #CC9900;
+    }
+    .I-hate{
+    	color: red;
+    }
+
+    p{
+    	border: 10px;
+    	padding-left: 10px;
+    	padding-top: 10px;
+    	padding-right: 10px;
+    	padding-bottom: 10px;
+    	margin-right: 12px;
+    	margin-top: 12px;
+    	margin-left: 12px;
+    	margin-bottom: 12px;
+    	background: orange;
+    	text-align: center;
+    	text-decoration: underline;
+    }
+
+.Coding-interest{
+	color: #6600CC;
+	border: 10px;
+    	padding-left: 10px;
+    	padding-top: 10px;
+    	padding-right: 10px;
+    	padding-bottom: 10px;
+    	margin-right: 12px;
+    	margin-top: 12px;
+    	margin-left: 12px;
+    	margin-bottom: 12px;
+    	background: #33D6FF;
+    	text-align: center;
+    	text-decoration: underline;
+}
+strong{
+    background-color: purple;
+}
+ul{
+    background-color: purple;
+}
+body{
+	background-image: url("http://jto.s3.amazonaws.com/wp-content/uploads/2013/05/fe20130512rhb-870x489.jpg");
+}
