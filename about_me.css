@@ -67,4 +67,7 @@ ul{
 }
 body{
 	background-image: url("http://jto.s3.amazonaws.com/wp-content/uploads/2013/05/fe20130512rhb-870x489.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
